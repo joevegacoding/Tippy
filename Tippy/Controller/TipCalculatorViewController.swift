@@ -30,14 +30,13 @@ class TipCalculatorViewController: UIViewController {
         
         let toolBar = UIToolbar()
         toolBar.sizeToFit()
-        
+
         let doneButton = UIBarButtonItem(barButtonSystemItem: UIBarButtonItem.SystemItem.done, target: self, action: #selector(self.doneClicked))
         
         //Placing the Done buttton on the right side of the toolbar.
         let flexibleSpace = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: nil, action: nil)
         
         toolBar.setItems([flexibleSpace, doneButton], animated: false)
-        
         billAmountTextField.inputAccessoryView = toolBar
         
     }
@@ -63,7 +62,6 @@ class TipCalculatorViewController: UIViewController {
     }
     
     //MARK: -Target  / IBActions
-    
     
     @IBAction func tipSliderValueChanged(_ sender: Any) {
         tipPercentageAmount.text = String(format: "%2d%%", Int(tipPercentageAmountSlider.value * 100))
