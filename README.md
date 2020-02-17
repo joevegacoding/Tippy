@@ -6,7 +6,8 @@ Light Mode            |  Dark Mode
 :-------------------------:|:-------------------------:
 ![](Images/LightModeTippy.gif) |  ![](Images/DarkModeTippy.gif)
 
-APPStore Download Link: https://apps.apple.com/ca/app/tippy-bill-calculator/id1492584336
+
+AppStore Download Link: https://apps.apple.com/ca/app/tippy-bill-calculator/id1492584336
 
 
 ## Author
