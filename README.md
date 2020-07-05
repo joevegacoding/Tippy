@@ -11,4 +11,4 @@ AppStore Download Link: https://apps.apple.com/ca/app/tippy-bill-calculator/id14
 
 
 ## Author
-This project was made by me, Joseph Bouhanef. If you want to contact me, you can always end me DM on Twitter[@JosephCodes_](https://twitter.com/JosephCodes_)
+This project was made by me, Joseph Bouhanef. If you have any questions, don't hesitate to contact met on Twitter[@JosephCodes_](https://twitter.com/JosephCodes_)
